@@ -1,0 +1,11 @@
+.loadingScreen{
+    height: 100vh;
+    display: grid;
+    place-items: center;
+    background: linear-gradient($bg-gradient-color1, $bg-gradient-color2);
+}
+
+.loadingImg {
+    max-width: 200px;
+    max-height: 200px;
+}

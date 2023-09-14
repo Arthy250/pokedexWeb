@@ -1,0 +1,20 @@
+.bg-gradient {
+    background: linear-gradient($bg-gradient-color1, $bg-gradient-color2);
+}
+
+.bg-border {
+    background: linear-gradient($bg-border-color1, $bg-border-color2);
+}
+
+.app{
+    display: grid;
+    grid-template-rows: auto 1fr;
+    min-height: 100vh;
+}
+
+.app main{
+    padding: 10px;
+    height: 100%;
+    overflow: auto;
+    margin-bottom: 80px;
+}
