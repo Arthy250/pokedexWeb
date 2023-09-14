@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "/static/css/main.2b2c1555.css",
-    "main.js": "/static/js/main.239a0c6d.js",
+    "main.css": "./static/css/main.2b2c1555.css",
+    "main.js": "./static/js/main.239a0c6d.js",
     "static/media/pokedex.png": "/static/media/pokedex.5037bf3372e430881bb0.png",
     "static/media/pikachu.png": "/static/media/pikachu.cb81c8c0d7c92787bb35.png",
     "static/media/pokeball.png": "/static/media/pokeball.9fc0eeaeda972e93ebc7.png",
