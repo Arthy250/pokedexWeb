@@ -1,6 +1,6 @@
 {
-  "homepage": "https://arthy250.github.io/pokedexWeb",
-  "name": "pokedex",
+  "homepage": "https://arthy250.github.io/pokedexWeb/",
+  "name": "pokedexweb",
   "version": "0.1.0",
   "private": true,
   "dependencies": {
